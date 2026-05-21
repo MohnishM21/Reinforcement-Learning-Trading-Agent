@@ -1,4 +1,4 @@
-## Creator/Dev: tubakhxn
+## Creator/Dev: Mohnish M
 
 # Reinforcement Learning Trading Agent
 
